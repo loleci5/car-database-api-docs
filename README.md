@@ -4,14 +4,14 @@
 [![API Docs](https://img.shields.io/badge/OpenAPI-Documentation-brightgreen?style=for-the-badge&logo=swagger)](https://api.revcardata.com/docs)
 [![Database](https://img.shields.io/badge/Database-5200%2B_Vehicles-orange?style=for-the-badge&logo=database)](https://revcardata.com)
 
-**RevCarData** is the ultimate technical specifications database for over **5,200+ car models** globally. Our mission is to provide developers, startups, and automotive projects with clean, structured, and instantly accessible data via a lightning-fast REST API.
+**RevCarData** is the ultimate technical specifications database for over **86 835+ car models** globally. Our mission is to provide developers, startups, and automotive projects with clean, structured, and instantly accessible data via a lightning-fast REST API.
 
 Whether you're building an EV routing app, an insurance comparison tool, a B2B SaaS platform, or an auto-parts e-commerce store, our API will save you months of complex web scraping.
 
 ---
 
 ## 🌟 Key Features
-* **Massive Database:** 5,200+ unique vehicles, covering both Internal Combustion Engine (ICE) cars and the latest Electric Vehicles (EV).
+* **Massive Database:** 86 835+ unique vehicles, covering both Internal Combustion Engine (ICE) cars and the latest Electric Vehicles (EV).
 * **Developer First:** Clean, fast, and highly predictable JSON responses.
 * **Standardized:** Data is structured around the industry standard **YMME** (Year, Make, Model, Engine) format.
 * **Premium Quality:** Constantly cleaned and verified for commercial production use.
