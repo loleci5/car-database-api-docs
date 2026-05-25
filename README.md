@@ -83,7 +83,7 @@ We believe in fair pricing for both solo developers and enterprise teams.
 
 **Need the raw data?** If you don't want to use an API and prefer to download the entire physical database for machine learning, offline usage, or internal B2B systems, we sell complete, one-time CSV/JSON dataset exports.
 
-Check out our website for SaaS checkout, API plans, and raw dataset downloads: **[revcardata.com/pricing](https://revcardata.com/pricing)**.
+Check out our website for SaaS checkout, API plans, and raw dataset downloads: **[revcardata.com/pricing](https://revcardata.com/#pricing)**.
 
 ---
 
