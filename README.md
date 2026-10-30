@@ -32,13 +32,13 @@ Current coverage snapshot:
 | Make/model combinations | 8,927 |
 | Published spec fields | 53 |
 | Model years | 1900–2026 |
-| EV/battery-classified rows | 13,919 |
-| Hybrid/PHEV rows | 3,751 |
+| EV/battery-classified rows | 13,359 |
+| Hybrid/PHEV rows | 3,839 |
 | US / EU / Asia / Global rows | 204,225 / 124,552 / 53,505 / 72,149 |
 
 `Global` is a coverage bucket for records not assigned to US, EU or Asia — it is
 not the total of all regions. EV battery/range coverage is reported honestly as
-**85.2%** in the current release; missing values are not estimated. See the
+**91.4%** in the current release; missing values are not estimated. See the
 [EV coverage study](https://revcardata.com/electric-vehicle-coverage/).
 
 ## Quick start
